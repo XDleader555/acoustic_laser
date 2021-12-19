@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PCM1808PW
+D PCM1808PW
+F http://www.ti.com/lit/ds/symlink/pcm1808.pdf
+$ENDCMP
+#
+#End Doc Library

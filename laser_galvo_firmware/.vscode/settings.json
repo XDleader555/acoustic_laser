@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "*.tba": "asm",
+        "lasergalvo.h": "c",
+        "adafruit_mcp4725.h": "c",
+        "adafruit_busio_register.h": "c",
+        "temperature.h": "c"
+    },
+    "cmake.configureOnOpen": true
+}

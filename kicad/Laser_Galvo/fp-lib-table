@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name teensy)(type KiCad)(uri ${KIPRJMOD}/../Libraries/teensy_library-master/teensy.pretty-master)(options "")(descr ""))
+)
